@@ -1,0 +1,188 @@
+
+header {
+    background:  linear-gradient(to right, 
+    orange,rgb(215, 210, 210), green);
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    text-shadow: 6px 6px  6px rgba(2, 2, 2, 0.5);
+    color: black;
+    position:fixed;
+    width: 100%;
+    margin-left:-10px;
+    top: 0;
+   
+}
+
+footer {
+    background-color: darkcyan;
+    color: #fff;
+    padding: 4px;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left:-10px
+   
+}
+
+body img{
+    height: 200px;
+    width: 300px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border:2px solid black;
+    margin:120px 150px 30px 150px;
+    border-radius: 40px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 6px 6px 6px 6px rgba(48, 37, 37, 0.5);
+    background-color: white;
+}
+
+.tm {
+    flex: 1;
+    padding-left: 50px;
+}
+.tm img {
+    max-width: 100%;
+    height: auto;
+}
+
+.tajmahal {
+    flex: 1;
+    margin-right:100px;
+    margin-top:50px
+}
+
+
+.content1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border:2px solid black;   
+    margin:30px 150px 30px 150px;
+    border-radius: 40px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 6px 6px 6px 6px rgba(48, 37, 37, 0.5);
+    background-color: white;
+}
+
+.rf {
+    flex: 1;
+    padding-left: 50px;
+}
+.rf img {
+    max-width: 100%;
+    height: auto;
+}
+
+.redfort {
+    flex: 1;
+    margin-right:100px;
+    margin-top:50px;
+}
+
+
+.content2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border:2px solid black;
+    margin:30px 150px 30px 150px;
+    border-radius: 40px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 6px 6px 6px 6px rgba(48, 37, 37, 0.5);
+    background-color: white;
+}
+
+.qm {
+    flex: 1;
+    padding-left: 50px;
+}
+.qm img {
+    max-width: 100%;
+    height: 180px;
+}
+
+.qutbminar {
+    flex: 1;
+    margin-right:100px;
+    margin-top:50px;
+    
+}
+
+
+.content3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border:2px solid black;
+    margin:30px 150px 30px 150px;
+    border-radius: 40px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 6px 6px 6px 6px rgba(48, 37, 37, 0.5);
+    background-color: white;
+}
+
+.vm {
+    flex: 1;
+    padding-left: 50px;
+}
+.vm img {
+    max-width: 100%;
+    height: auto;
+}
+
+.victoriamemorial {
+    flex: 1;
+    margin-right:100px;
+    margin-top:50px;
+}
+
+
+.content4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin:30px 150px 30px 150px;
+    border:2px solid black;
+    border-radius: 40px;
+    margin:30px 150px 30px 150px;
+    margin-bottom: 200px;
+    text-shadow: 2px 2px 4px rgba(19, 15, 15, 0.5);
+    box-shadow: 6px 6px 6px 6px rgba(48, 37, 37, 0.5);
+    background-color: white;
+}
+
+.gt{
+    flex: 1;
+    padding-left: 50px;
+}
+.gt img {
+    max-width: 100%;
+    height: 200px;
+}
+
+.goldentemple {
+    flex: 1;
+    margin-right:100px;
+    margin-top:50px;
+}
+
+body{
+    background:  linear-gradient(to bottom, 
+    rgb(237, 145, 237), indigo, rgb(76, 76, 135), rgb(11, 188, 11), yellow, rgb(218, 169, 79),rgb(197, 107, 122));
+}
+
+.audio{
+    margin:-100px 0px 150px 450px;
+}
+
+.name{
+    margin:-100px 0px 150px 1000px;
+    text-shadow:2px 2px 4px rgba(19, 15, 15, 0.5) ;
+}
